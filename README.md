@@ -42,6 +42,7 @@ output:
 file:simple calculator
 
 output:
+
 Enter first number: 10
 
 Enter second number: 5
