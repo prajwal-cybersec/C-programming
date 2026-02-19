@@ -58,12 +58,23 @@ Division = 2.00
 
 Day 3:
 
-swapping two numbers
+1. swapping two numbers
 
 file:Swapping.c
 
 input: 5 10
 
 output: a=10  b=5
+
+2.Area of circle
+
+file:Area.c
+
+output:
+
+Enter the radius of the circle: 7
+
+Area of the circle = 153.86
+
 
 
