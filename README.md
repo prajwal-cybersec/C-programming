@@ -1,5 +1,6 @@
 # C-programming-practice
 Day 1:
+
 Hello world
 
 file: Hello.c
@@ -54,5 +55,15 @@ Subtraction = 5.00
 Multiplication = 50.00
 
 Division = 2.00
+
+Day 3:
+
+swapping two numbers
+
+file:Swapping.c
+
+input: 5 10
+
+output: a=10  b=5
 
 
