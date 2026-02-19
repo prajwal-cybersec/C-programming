@@ -76,5 +76,16 @@ Enter the radius of the circle: 7
 
 Area of the circle = 153.86
 
+3.Square of a number 
+
+file:square.c
+
+output:
+
+Enter a number: 6
+
+Square of 6 = 36
+
+
 
 
