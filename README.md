@@ -164,5 +164,13 @@ a /= b : 5
 
 a %= b : 0
 
+3. Type conversion
+
+file: Conversion.c
+
+output:
+
+sum:7.00
+
 
 
