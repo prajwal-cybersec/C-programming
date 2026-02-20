@@ -172,5 +172,11 @@ output:
 
 sum:7.00
 
+4. Type casting
+
+file:Casting.c
+
+result:3.33
+
 
 
