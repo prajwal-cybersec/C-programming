@@ -122,6 +122,29 @@ Logical NOT (!a) = 0
 
 Logical NOT (!b) = 1
 
+Day 4: Bitwise operation
+
+file: Bitwise.c
+
+output:
+
+Value of a = 5
+
+Value of b = 3
+
+a & b  (AND)        = 1
+
+a | b  (OR)         = 7
+
+a ^ b  (XOR)        = 6
+
+~a     (NOT)        = -6
+
+a << 1 (Left Shift) = 10
+
+a >> 1 (Right Shift)= 2
+
+
 
 
 
