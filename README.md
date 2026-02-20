@@ -122,7 +122,9 @@ Logical NOT (!a) = 0
 
 Logical NOT (!b) = 1
 
-Day 4: Bitwise operation
+Day 4: 
+
+1. Bitwise operation
 
 file: Bitwise.c
 
@@ -144,7 +146,23 @@ a << 1 (Left Shift) = 10
 
 a >> 1 (Right Shift)= 2
 
+2. Bitwise operation
+   
+file: Bitwise.c
 
+output:
+
+a = b : 5
+
+a += b : 10
+
+a -= b : 5
+
+a *= b : 25
+
+a /= b : 5
+
+a %= b : 0
 
 
 
